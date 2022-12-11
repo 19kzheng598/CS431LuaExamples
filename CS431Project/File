@@ -1,1 +1,2 @@
 Two Files. One for the plug and one for the load. 
+Plug = module, load = require("something")
